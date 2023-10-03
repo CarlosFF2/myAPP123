@@ -1,0 +1,180 @@
+[
+    {
+        "Aguascalientes": {
+          "latitud": 21.8818,
+          "longitud": -102.2916,
+          "poblacion": 1434635,
+          "capital": "Aguascalientes",
+          "superficie_km2": 5610,
+          "gentilicio": "Aguascalentense",
+          "municipios": ["Aguascalientes", "Asientos", "Calvillo", "Cosío", "El Llano", "Jesús María", "Pabellón de Arteaga", "Rincón de Romos", "San José de Gracia", "Tepezalá"],
+          "idh": 0.772
+        },
+        "Baja California": {
+          "latitud": 30.8406,
+          "longitud": -115.2838,
+          "poblacion": 3769020,
+          "capital": "Mexicali",
+          "superficie_km2": 71551,
+          "gentilicio": "Bajacaliforniano",
+          "municipios": ["Ensenada", "Mexicali", "Tecate", "Tijuana"],
+          "idh": 0.776
+        },
+        "Baja California Sur": {
+          "latitud": 25.1160,
+          "longitud": -112.8608,
+          "poblacion": 798447,
+          "capital": "La Paz",
+          "superficie_km2": 73374,
+          "gentilicio": "Bajacaliforniano sur",
+          "municipios": ["Comondú", "La Paz", "Loreto", "Los Cabos", "Mulegé"],
+          "idh": 0.783
+        },
+        "Campeche": {
+          "latitud": 19.8301,
+          "longitud": -90.5349,
+          "poblacion": 928363,
+          "capital": "San Francisco de Campeche",
+          "superficie_km2": 57728,
+          "gentilicio": "Campechano",
+          "municipios": ["Calkiní", "Campeche", "Carmen", "Champotón", "Hecelchakán", "Hopelchén", "Palizada", "Tenabo", "Escárcega"]
+        },
+        "Chiapas": {
+          "latitud": 16.7538,
+          "longitud": -93.1288,
+          "poblacion": 5543828,
+          "capital": "Tuxtla Gutiérrez",
+          "superficie_km2": 73229,
+          "gentilicio": "Chiapaneco",
+          "municipios": ["Acacoyagua", "Acala", "Acapetahua", "Aldama", "Altamirano", "Amatán", "Amatenango de la Frontera", "Amatenango del Valle", "Angel Albino Corzo", "Arriaga", "Bejucal de Ocampo", "Bella Vista", "Benemérito de las Américas", "Berriozábal", "Bochil", "Cacahoatán", "Catazajá", "Chalchihuitán", "Chamula", "Chanal", "Chapultenango", "Chenalhó", "Chiapa de Corzo", "Chiapilla", "Chicoasén", "Chicomuselo", "Chilón", "Cintalapa", "Coapilla", "Comitán de Domínguez", "La Concordia", "Copainalá", "El Bosque", "El Porvenir", "Escuintla", "Francisco León", "Frontera Comalapa", "Frontera Hidalgo", "La Grandeza", "Huehuetán", "Huixtán", "Huitiupán", "Huixtla", "La Independencia", "Ixhuatán", "Ixtacomitán", "Ixtapa", "Ixtapangajoya", "Jiquipilas", "Jitotol", "Juárez", "Larráinzar", "La Libertad", "Mapastepec", "Las Margaritas", "Mazapa de Madero", "Mazatán", "Metapa", "Mitontic", "Motozintla", "Nicolás Ruíz", "Ocosingo", "Ocotepec", "Ocozocoautla de Espinosa", "Ostuacán", "Osumacinta", "Oxchuc", "Palenque", "Pantelhó", "Pantepec", "Pichucalco", "Pijijiapan", "El Porvenir", "Villa Comaltitlán", "Pueblo Nuevo Solistahuacán", "Rayón", "Reforma", "Las Rosas", "Sabanilla", "Salto de Agua", "San Andrés Duraznal", "San Cristóbal de las Casas", "San Fernando", "Siltepec", "Simojovel", "Sitalá", "Socoltenango", "Solosuchiapa", "Soyaló", "Suchiapa", "Suchiate", "Sunuapa", "Tapachula", "Tapalapa", "Tapilula", "Tecpatán", "Tenejapa", "Teopisca", "Tila", "Tonalá", "Totolapa", "La Trinitaria", "Tumbalá", "Tuxtla Chico", "Tuxtla Gutiérrez", "Tuxtla Gutiérrez", "Tuzantán", "Tzimol", "Unión Juárez", "Venustiano Carranza", "Villa Corzo", "Villaflores", "Yajalón", "Zinacantán", "San Lucas", "Santiago El Pinar", "Maravilla Tenejapa", "Marqués de Comillas", "Montecristo de Guerrero", "San Andrés Larráinzar", "Benito Juárez", "Carlos A. Madrazo", "Joaquín Miguel Gutiérrez", "Manuel A. Castellanos", "Miguel Hidalgo", "Montecristo de Guerrero", "Rafael Cal y Mayor", "Pueblo Nuevo Solistahuacán", "El Bosque", "El Porvenir", "Motozintla", "Pantepec", "San Andrés Duraznal", "Tumbalá"]
+        },
+        "Chihuahua": {
+          "latitud": 28.6353,
+          "longitud": -106.0889,
+          "poblacion": 3801487,
+          "capital": "Chihuahua",
+          "superficie_km2": 247460,
+          "gentilicio": "Chihuahuense",
+          "municipios": ["Ahumada", "Aldama", "Allende", "Aquiles Serdán", "Ascensión", "Bachíniva", "Balleza", "Batopilas", "Bocoyna", "Buenaventura", "Camargo", "Carichí", "Casas Grandes", "Coronado", "Coyame del Sotol", "La Cruz", "Cuauhtémoc", "Cusihuiriachi", "Chihuahua", "Chínipas", "Delicias", "Dr. Belisario Domínguez", "Galeana", "Gran Morelos", "Guachochi", "Guadalupe", "Guadalupe y Calvo", "Guazapares", "Guerrero", "Hidalgo del Parral", "Huejotitán", "Ignacio Zaragoza", "Janos", "Jiménez", "Juárez", "Julimes", "López", "Madera", "Maguarichi", "Manuel Benavides", "Matachí", "Matamoros", "Meoqui", "Morelos", "Moris", "Namiquipa", "Nonoava", "Nuevo Casas Grandes", "Ocampo", "Ojinaga", "Praxedis G. Guerrero", "Riva Palacio", "Rosales", "Rosario", "San Francisco de Borja", "San Francisco de Conchos", "San Francisco del Oro", "Santa Bárbara", "Satevó", "Saucillo", "Temósachic", "Urique", "Uruachi", "Valle de Zaragoza"]
+        },
+        "Coahuila": {
+          "latitud": 27.0587,
+          "longitud": -101.7068,
+          "poblacion": 3146771,
+          "capital": "Saltillo",
+          "superficie_km2": 151563,
+          "gentilicio": "Coahuilense",
+          "municipios": ["Abasolo", "Acuña", "Allende", "Arteaga", "Candela", "Castaños", "Cuatro Ciénegas", "Escobedo", "Francisco I. Madero", "Frontera", "General Cepeda", "Guerrero", "Hidalgo", "Jiménez", "Juárez", "Lamadrid", "Matamoros", "Monclova", "Morelos", "Múzquiz", "Nadadores", "Nava", "Ocampo", "Parras", "Piedras Negras", "Progreso", "Ramos Arizpe", "Sabinas", "Sacramento", "Saltillo", "San Buenaventura", "San Juan de Sabinas", "San Pedro", "Sierra Mojada", "Torreón", "Viesca", "Villa Unión", "Zaragoza"]
+        },
+        "Colima": {
+          "latitud": 19.1223,
+          "longitud": -104.0079,
+          "poblacion": 731391,
+          "capital": "Colima",
+          "superficie_km2": 5627,
+          "gentilicio": "Colimense",
+          "municipios": ["Armería", "Colima", "Comala", "Coquimatlán", "Cuauhtémoc", "Ixtlahuacán", "Manzanillo", "Minatitlán", "Tecomán", "Villa de Álvarez"]
+        },
+        "Durango": {
+          "latitud": 24.0277,
+          "longitud": -104.6532,
+          "poblacion": 1832650,
+          "capital": "Durango",
+          "superficie_km2": 123451,
+          "gentilicio": "Duranguense",
+          "municipios": ["Canatlán", "Canelas", "Coneto de Comonfort", "Cuencamé", "Durango", "El Oro", "General Simón Bolívar", "Gómez Palacio", "Guadalupe Victoria", "Guadiana", "Hidalgo", "Indé", "Lerdo", "Mapimí", "Mezquital", "Nazas", "Nombre de Dios", "Nuevo Ideal", "Ocampo", "Otáez", "Pánuco de Coronado", "Peñón Blanco", "Poanas", "Pueblo Nuevo", "Rodeo", "San Bernardo", "San Dimas", "San Juan de Guadalupe", "San Juan del Río", "San Luis del Cordero", "San Pedro del Gallo", "Santa Clara", "Santiago Papasquiaro", "Súchil", "Tamazula", "Tepehuanes", "Tlahualilo", "Topia", "Vicente Guerrero"]
+        },
+        "Guanajuato": {
+          "latitud": 21.0181,
+          "longitud": -101.2592,
+          "poblacion": 6228175,
+          "capital": "Guanajuato",
+          "superficie_km2": 30608,
+          "gentilicio": "Guanajuatense",
+          "municipios": ["Abasolo", "Acámbaro", "San Miguel de Allende", "Apaseo el Alto", "Apaseo el Grande", "Atarjea", "Celaya", "Manuel Doblado", "Comonfort", "Coroneo", "Cortazar", "Cuerámaro", "Doctor Mora", "Dolores Hidalgo Cuna de la Independencia Nacional", "Guanajuato", "Huanímaro", "Irapuato", "Jaral del Progreso", "Jerécuaro", "León", "Moroleón", "Ocampo", "Pénjamo", "Pueblo Nuevo", "Purísima del Rincón", "Romita", "Salamanca", "Salvatierra", "San Diego de la Unión", "San Felipe", "San Francisco del Rincón", "San José Iturbide", "San Luis de la Paz", "Santa Catarina", "Santa Cruz de Juventino Rosas", "Santiago Maravatío", "Silao", "Tarandacuao", "Tarimoro", "Tierra Blanca", "Uriangato", "Valle de Santiago", "Victoria", "Villagrán", "Xichú", "Yuriria"]
+        },
+        "Guerrero": {
+          "latitud": 17.4392,
+          "longitud": -99.5451,
+          "poblacion": 3533251,
+          "capital": "Chilpancingo de los Bravo",
+          "superficie_km2": 63621,
+          "gentilicio": "Guerrerense",
+          "municipios": ["Acapulco de Juárez", "Ahuacuotzingo", "Ajuchitlán del Progreso", "Alcozauca de Guerrero", "Alpoyeca", "Apaxtla", "Arcelia", "Atenango del Río", "Atlamajalcingo del Monte", "Atlixtac", "Atoyac de Álvarez", "Ayutla de los Libres", "Azoyú", "Benito Juárez", "Buenavista de Cuéllar", "Chilapa de Álvarez", "Chilpancingo de los Bravo", "Coahuayutla de José María Izazaga", "Cochoapa el Grande", "Cocula", "Copala", "Copalillo", "Copanatoyac", "Coyuca de Benítez", "Coyuca de Catalán", "Cuajinicuilapa", "Cualác", "Cuautepec", "Cuetzala del Progreso", "Cutzamala de Pinzón", "Eduardo Neri", "Florencio Villarreal", "General Canuto A. Neri", "General Heliodoro Castillo", "Huamuxtitlán", "Huitzuco de los Figueroa", "Igualapa", "Iguala de la Independencia", "Ixcateopan de Cuauhtémoc", "José Azueta", "Juan R. Escudero", "La Unión de Isidoro Montes de Oca", "Leonardo Bravo", "Malinaltepec", "Marquelia", "Mártir de Cuilapan", "Metlatónoc", "Mochitlán", "Olinalá", "Ometepec", "Pedro Ascencio Alquisiras", "Petatlán", "Pilcaya", "Pungarabato", "Quechultenango", "San Luis Acatlán", "San Marcos", "San Miguel Totolapan", "Taxco de Alarcón", "Tecoanapa", "Técpan de Galeana", "Teloloapan", "Tepecoacuilco de Trujano", "Tetipac", "Tixtla de Guerrero", "Tlacoachistlahuaca", "Tlacoapa", "Tlalchapa", "Tlalixtaquilla de Maldonado", "Tlapa de Comonfort", "Tlapehuala", "Xalpatláhuac", "Xochihuehuetlán", "Xochistlahuaca", "Zapotitlán Tablas", "Zirándaro", "Zitlala", "Eduardo Neri", "San Luis Acatlán", "San Marcos", "San Miguel Totolapan", "Tlacoachistlahuaca", "Tlacoapa", "Tlalchapa", "Tlalixtaquilla de Maldonado", "Tlapa de Comonfort", "Tlapehuala", "Xalpatláhuac", "Xochihuehuetlán", "Xochistlahuaca", "Zapotitlán Tablas", "Zirándaro", "Zitlala"]
+        },
+        "Hidalgo": {
+          "latitud": 20.8756,
+          "longitud": -98.7718,
+          "poblacion": 3088766,
+          "capital": "Pachuca de Soto",
+          "superficie_km2": 20813,
+          "gentilicio": "Hidalguense",
+          "municipios": ["Acatlán", "Acaxochitlán", "Actopan", "Agua Blanca de Iturbide", "Ajacuba", "Alfajayucan", "Almoloya", "Apan", "Atitalaquia", "Atlapexco", "Atotonilco de Tula", "Atotonilco el Grande", "Calnali", "Cardonal", "Chapantongo", "Chapulhuacán", "Chilcuautla", "Cuautepec de Hinojosa", "El Arenal", "Eloxochitlán", "Emiliano Zapata", "Epazoyucan", "Francisco I. Madero", "Huasca de Ocampo", "Huautla", "Huazalingo", "Huehuetla", "Huejutla de Reyes", "Huichapan", "Ixmiquilpan", "Jacala de Ledezma", "Jaltocán", "Juárez Hidalgo", "La Misión", "Lolotla", "Metepec", "Metztitlán", "Mineral de la Reforma", "Mineral del Chico", "Mineral del Monte", "Mixquiahuala de Juárez", "Molango de Escamilla", "Nicolás Flores", "Nopala de Villagrán", "Omitlán de Juárez", "Pacula", "Pachuca de Soto", "Pacula", "Pisaflores", "Progreso de Obregón", "San Agustín Metzquititlán", "San Agustín Tlaxiaca", "San Bartolo Tutotepec", "San Felipe Orizatlán", "San Salvador", "Santiago de Anaya", "Santiago Tulantepec de Lugo Guerrero", "Singuilucan", "Tasquillo", "Tecozautla", "Tenango de Doria", "Tepeapulco", "Tepehuacán de Guerrero", "Tepeji del Río de Ocampo", "Tepetitlán", "Tetepango", "Tezontepec de Aldama", "Tianguistengo", "Tizayuca", "Tlahuelilpan", "Tlahuiltepa", "Tlanalapa", "Tlanchinol", "Tlaxcoapan", "Tolcayuca", "Tula de Allende", "Tulancingo de Bravo", "Xochiatipan", "Xochicoatlán", "Yahualica", "Zacualtipán de Ángeles", "Zapotlán de Juárez", "Zempoala", "Zimapán"]
+        },
+        "Jalisco": {
+          "latitud": 20.6595,
+          "longitud": -103.3494,
+          "poblacion": 8349902,
+          "capital": "Guadalajara",
+          "superficie_km2": 78571,
+          "gentilicio": "Jalisciense",
+          "municipios": ["Acatic", "Acatlán de Juárez", "Ahualulco de Mercado", "Amacueca", "Amatitán", "Ameca", "Arandas", "Atemajac de Brizuela", "Atengo", "Atenguillo", "Atotonilco el Alto", "Atoyac", "Autlán de Navarro", "Ayotlán", "Ayutla", "Bolaños", "Cabo Corrientes", "Cañadas de Obregón", "Casimiro Castillo", "Chapala", "Chimaltitán", "Chiquilistlán", "Cihuatlán", "Cocula", "Colotlán", "Concepción de Buenos Aires", "Cuautitlán de García Barragán", "Cuautla", "Cuquío", "Degollado", "Ejutla", "El Arenal", "El Grullo", "El Limón", "El Salto", "Encarnación de Díaz", "Etzatlán", "Gómez Farías", "Guachinango", "Guadalajara", "Hostotipaquillo", "Huejúcar", "Huejuquilla el Alto", "Ixtlahuacán de los Membrillos", "Ixtlahuacán del Río", "Jalostotitlán", "Jamay", "Jesús María", "Jilotlán de los Dolores", "Jocotepec", "Juanacatlán", "Juchitlán", "La Barca", "La Huerta", "La Manzanilla de la Paz", "Lagos de Moreno", "Magdalena", "Mascota", "Mazamitla", "Mexticacán", "Mezquitic", "Mixtlán", "Ocotlán", "Ojuelos de Jalisco", "Pihuamo", "Poncitlán", "Puerto Vallarta", "Quitupan", "San Cristóbal de la Barranca", "San Diego de Alejandría", "San Gabriel", "San Ignacio Cerro Gordo", "San Juan de los Lagos", "San Juanito de Escobedo", "San Julián", "San Marcos", "San Martín de Bolaños", "San Martín Hidalgo", "San Miguel el Alto", "San Sebastián del Oeste", "Santa María de los Ángeles", "Santa María del Oro", "Sayula", "Tala", "Talpa de Allende", "Tamazula de Gordiano", "Tapalpa", "Tecalitlán", "Techaluta de Montenegro", "Tecolotlán", "Tenamaxtlán", "Teocaltiche", "Teocuitatlán de Corona", "Tepatitlán de Morelos", "Tequila", "Teuchitlán", "Tizapán el Alto", "Tlajomulco de Zúñiga", "Tlaquepaque", "Tolimán", "Tomatlán", "Tonaya", "Tonila", "Totatiche", "Tototlán", "Tuxcacuesco", "Tuxcueca", "Tuxpan", "Unión de San Antonio", "Unión de Tula", "Valle de Guadalupe", "Valle de Juárez", "Villa Corona", "Villa Guerrero", "Villa Hidalgo", "Villa Purificación", "Yahualica de González Gallo", "Zacoalco de Torres", "Zapopan", "Zapotiltic", "Zapotitlán de Vadillo", "Zapotlán del Rey", "Zapotlanejo", "San Ignacio Cerro Gordo", "Zapotlanejo"]
+        },
+        "México": {
+          "latitud": 19.3587,
+          "longitud": -99.7611,
+          "poblacion": 17427790,
+          "capital": "Toluca de Lerdo",
+          "superficie_km2": 223990,
+          "gentilicio": "Mexiquense",
+          "municipios": ["Acambay", "Acolman", "Aculco", "Almoloya de Alquisiras", "Almoloya de Juárez", "Almoloya del Río", "Amanalco", "Amatepec", "Amecameca", "Apaxco", "Atenco", "Atizapán", "Atizapán de Zaragoza", "Atlacomulco", "Atlautla", "Axapusco", "Ayapango", "Calimaya", "Capulhuac", "Chalco", "Chapa de Mota", "Chapultepec", "Chiautla", "Chicoloapan", "Chiconcuac", "Chimalhuacán", "Coacalco de Berriozábal", "Coatepec Harinas", "Cocotitlán", "Coyotepec", "Cuautitlán", "Cuautitlán Izcalli", "Donato Guerra", "Ecatepec de Morelos", "Ecatzingo", "Huehuetoca", "Hueypoxtla", "Huixquilucan", "Isidro Fabela", "Ixtapaluca", "Ixtapan de la Sal", "Ixtapan del Oro", "Ixtlahuaca", "Jaltenco", "Jilotepec", "Jilotzingo", "Jiquipilco", "Jocotitlán", "Joquicingo", "Juchitepec", "La Paz", "Lerma", "Luvianos", "Malinalco", "Melchor Ocampo", "Metepec", "Mexicaltzingo", "Morelos", "Naucalpan de Juárez", "Nezahualcóyotl", "Nextlalpan", "Nicolás Romero", "Nopaltepec", "Ocoyoacac", "Ocuilan", "Otumba", "Otzolotepec", "Otzoloapan", "Ozumba", "Papalotla", "Polotitlán", "Rayón", "San Antonio la Isla", "San Felipe del Progreso", "San José del Rincón", "San Martín de las Pirámides", "San Mateo Atenco", "San Simón de Guerrero", "Santo Tomás", "Soyaniquilpan de Juárez", "Sultepec", "Tecámac", "Tejupilco", "Temamatla", "Temascalapa", "Temascalcingo", "Temascaltepec", "Temoaya", "Tenancingo", "Tenango del Aire", "Tenango del Valle", "Teoloyucan", "Teotihuacán", "Tepetlaoxtoc", "Tepetlixpa", "Tepotzotlán", "Tequixquiac", "Texcaltitlán", "Texcalyacac", "Texcoco", "Tezoyuca", "Tianguistenco", "Timilpan", "Tlalmanalco", "Tlalnepantla de Baz", "Tlatlaya", "Toluca", "Tonanitla", "Tonatico", "Tultepec", "Tultitlán", "Valle de Bravo", "Valle de Chalco Solidaridad", "Villa de Allende", "Villa del Carbón", "Villa Guerrero", "Villa Victoria", "Xalatlaco", "Xonacatlán", "Zacazonapan", "Zacualpan", "Zinacantepec", "Zumpahuacán", "Zumpango"]
+        },
+        "Michoacán": {
+          "latitud": 19.5665,
+          "longitud": -101.9581,
+          "poblacion": 4825401,
+          "capital": "Morelia",
+          "superficie_km2": 58670,
+          "gentilicio": "Michoacano",
+          "municipios": ["Acuitzio", "Aguililla", "Álvaro Obregón", "Angamacutiro", "Angangueo", "Apatzingán", "Aporo", "Aquila", "Ario", "Arteaga", "Briseñas", "Buenavista", "Carácuaro", "Charapan", "Charo", "Chavinda", "Cherán", "Chilchota", "Chinicuila", "Chucándiro", "Churintzio", "Churumuco", "Coahuayana", "Coalcomán de Vázquez Pallares", "Coeneo", "Cojumatlán de Régules", "Contepec", "Copándaro", "Cotija", "Cuitzeo", "Ecuandureo", "Epitacio Huerta", "Erongarícuaro", "Gabriel Zamora", "Hidalgo", "Huandacareo", "Huaniqueo", "Huetamo", "Huiramba", "Indaparapeo", "Irimbo", "Ixtlán", "Jacona", "Jiménez", "Jiquilpan", "José Sixto Verduzco", "Juárez", "Jungapeo", "La Huacana", "La Piedad", "Lagunillas", "Lázaro Cárdenas", "Los Reyes", "Madero", "Maravatío", "Marcos Castellanos", "Morelia", "Morelos", "Múgica", "Nahuatzen", "Nocupétaro", "Nuevo Parangaricutiro", "Nuevo Urecho", "Numarán", "Ocampo", "Pajacuarán", "Panindícuaro", "Paracho", "Parácuaro", "Pátzcuaro", "Penjamillo", "Peribán", "Purépero", "Puruándiro", "Queréndaro", "Quiroga", "Sahuayo", "Salvador Escalante", "San Lucas", "Santa Ana Maya", "Senguio", "Susupuato", "Tacámbaro", "Tancítaro", "Tangamandapio", "Tangancícuaro", "Tanhuato", "Taretan", "Tarímbaro", "Tepalcatepec", "Tingambato", "Tingüindín", "Tiquicheo de Nicolás Romero", "Tlalpujahua", "Tlazazalca", "Tocumbo", "Tumbiscatío", "Turicato", "Tuxpan", "Tuzantla", "Tzintzuntzan", "Tzitzio", "Uruapan", "Venustiano Carranza", "Villamar", "Vista Hermosa", "Yurécuaro", "Zacapu", "Zamora", "Zináparo", "Zinapécuaro", "Ziracuaretiro", "Zitácuaro"]
+        },
+        "Morelos": {
+          "latitud": 18.6813,
+          "longitud": -99.1013,
+          "poblacion": 1971520,
+          "capital": "Cuernavaca",
+          "superficie_km2": 4869,
+          "gentilicio": "Morelense",
+          "municipios": ["Amacuzac", "Atlatlahucan", "Axochiapan", "Ayala", "Coatlán del Río", "Cuautla", "Cuernavaca", "Emiliano Zapata", "Huitzilac", "Jantetelco", "Jiutepec", "Jojutla", "Jonacatepec", "Mazatepec", "Miacatlán", "Ocuituco", "Puente de Ixtla", "Temixco", "Temoac", "Tepalcingo", "Tepoztlán", "Tetecala", "Tetela del Volcán", "Tlalnepantla", "Tlaltizapán de Zapata", "Tlaquiltenango", "Tlayacapan", "Totolapan", "Xochitepec", "Yautepec", "Yecapixtla", "Zacatepec", "Zacualpan de Amilpas", "Tepalcingo", "Tepoztlán"]
+        },
+        "Nayarit": {
+          "latitud": 21.7514,
+          "longitud": -104.8455,
+          "poblacion": 1280977,
+          "capital": "Tepic",
+          "superficie_km2": 27804,
+          "gentilicio": "Nayarita",
+          "municipios": ["Acaponeta", "Ahuacatlán", "Amatlán de Cañas", "Bahía de Banderas", "Compostela", "Del Nayar", "Huajicori", "Ixtlán del Río", "Jala", "La Yesca", "Rosamorada", "Ruíz", "San Blas", "San Pedro Lagunillas", "Santa María del Oro", "Santiago Ixcuintla", "Tecuala", "Tepic", "Tuxpan", "Xalisco"]
+        },
+        "Nuevo León": {
+          "latitud": 25.5922,
+          "longitud": -99.9962,
+          "poblacion": 5610153,
+          "capital": "Monterrey",
+          "superficie_km2": 64215,
+          "gentilicio": "Neolonés",
+          "municipios": ["Abasolo", "Agualeguas", "Los Aldamas", "Allende", "Anáhuac", "Apodaca", "Aramberri", "Bustamante", "Cadereyta Jiménez", "Carmen", "Cerralvo", "Ciénega de Flores", "China", "Doctor Arroyo", "Doctor Coss", "Doctor González", "Galeana", "García", "San Pedro Garza García", "General Bravo", "General Escobedo", "General Terán", "General Treviño", "General Zaragoza", "General Zuazua", "Guadalupe", "Los Herreras", "Higueras", "Hualahuises", "Iturbide", "Juárez", "Lampazos de Naranjo", "Linares", "Marín", "Melchor Ocampo", "Mier y Noriega", "Mina", "Montemorelos", "Monterrey", "Parás", "Pesquería", "Los Ramones", "Rayones", "Sabinas Hidalgo", "Salinas Victoria", "San Nicolás de los Garza", "San Pedro Garza García", "Santa Catarina", "Santiago", "Vallecillo", "Villaldama"]
+        },
+        "Oaxaca": {
+          "latitud": 17.0732,
+          "longitud": -96.7266,
+          "poblacion": 4143593,
+          "capital": "Oaxaca de Juárez",
+          "superficie_km2": 93751,
+          "gentilicio": "Oaxaqueño"
+        }
+
+      }
+      
+
+]
