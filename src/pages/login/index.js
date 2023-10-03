@@ -34,7 +34,7 @@ const MyComponent = () =>  {
 
       <Button style= {styles.button}
       icon="send" mode="contained" onPress={() => console.log('Pressed')}>
-      Ingresarrr
+      
       </Button>
 
         <View>
